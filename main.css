@@ -48,6 +48,15 @@ nav ul li a:hover {
     color: #ffcc00;
 }
 
+/* main.css */
+ul {
+    padding-left: 20px; /* Adjust the value as needed */
+}
+
+li {
+    padding-left: 10px; /* Adjust the value as needed */
+}
+
 /* Section styles */
 section {
     background: rgba(255, 255, 255, 0.9);
